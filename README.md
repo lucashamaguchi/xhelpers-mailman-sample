@@ -98,9 +98,3 @@ $ Pending
 ## Support
 
 [Pending]
-
-## Stay in touch
-
-- [bh2](https://bh2.com.br)
-
-## License
